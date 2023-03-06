@@ -8,14 +8,15 @@ Making life easier, one project at a time
 >- Twitter: <a href="https://twitter.com/AblyvS" target="_blank">@AblyvS</a>
 >- Youtube: <a href="https://www.youtube.com/@ablyv9245" target="_blank">Albyv</a>
 
-# We're Hiring!
+# We're Looking For People!
 
-> Job Openings:
+> What we're looking for:
 >- CFO
 >- CSO
 >- Composer
 >- C++ developer
 >- 3d Modelist
->- Web designer
+>- Web designer 
+>- backend web developer
 
-Contact us here: <a href="https://www.example.com" target="_blank">form</a>
+Contact us here: <a href="emailto:richmanzj@gmail.com" target="_blank">form</a>
