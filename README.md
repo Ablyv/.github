@@ -19,4 +19,4 @@ Making life easier, one project at a time
 >- Web designer 
 >- backend web developer
 
-Contact us here: <a href="emailto:richmanzj@gmail.com" target="_blank">form</a>
+Contact us here: richmanzj@gmail.com
