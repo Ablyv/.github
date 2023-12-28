@@ -1,9 +1,8 @@
 # Ablyv
 
 ```css
-Making life easier, one project at a time
+Introducing Actium
 ```
 
-> Socials
 # We're Looking For People!
 Contact us here: richmanzj@gmail.com
