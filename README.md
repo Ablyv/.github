@@ -10,13 +10,14 @@ Making life easier, one project at a time
 
 # We're Looking For People!
 
-> What we're looking for:
->- CFO
->- CSO
->- Composer
->- C++ developer
->- 3d Modelist
->- Web designer 
->- backend web developer
+>- Python and Javascript full stack developers!!!
+>- Social media manager
+>- Graphic Designer
+
+# Projects
+
+Actium
+Ablyv for Speech
+Ablyv for Eco
 
 Contact us here: richmanzj@gmail.com
