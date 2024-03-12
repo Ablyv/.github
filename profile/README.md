@@ -1,8 +1,9 @@
-# Ablyv
+<p align="center">
+  <a href="https://ablyv-dev.azurewebsites.net">
+    <img src="https://ablyv-dev.azurewebsites.net/static/images/nobglogo.png" alt="logo" />
+  </a>
+</p>
 
-```css
-Introducing Actium
-```
-
-# We're Looking For People!
-Contact us here: richmanzj@gmail.com
+<!-- 
+[![GitHub version](https://badge.fury.io/gh/Stardust-Industries%2FEducation.svg)](https://badge.fury.io/gh/Ablyv%2Fablyv)
+-->
