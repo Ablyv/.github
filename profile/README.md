@@ -4,6 +4,17 @@
   </a>
 </p>
 
+
+<h1 align="center">
+  PRODUCTS
+</h1>
+
+- Actium
+- Edu
+- Lumina
+- Data Science (unnamed)
+- IDE for schools (unnamed)
+
 <!-- 
 [![GitHub version](https://badge.fury.io/gh/Stardust-Industries%2FEducation.svg)](https://badge.fury.io/gh/Ablyv%2Fablyv)
 -->
